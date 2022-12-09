@@ -3,7 +3,8 @@
     typeof(Day2),
     typeof(Day3),
     typeof(Day4),
-    typeof(Day5)
+    typeof(Day5),
+    typeof(Day6)
 };
 
 Console.WriteLine("Welcome to Mike's 2022 Advent of Code");
